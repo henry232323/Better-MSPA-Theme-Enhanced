@@ -2,9 +2,9 @@
 A modification of IAREKYLEW00T's MSPaint Adventures styled Tumblr theme, changing a few aspects to make it mirror the original website better.
 
 
-Here it is everyone - A “better” MSPA-styled Tumblr Theme! This was the first theme I’ve ever made, and I tried my best to make it look as good as possible! Hope you all like it - Feel free to use it and edit it; just keep the credits link! :)
-
-If you run into any issues, please let me know!" -IAreKyleW00t
+>"Here it is everyone - A “better” MSPA-styled Tumblr Theme! This was the first theme I’ve ever made, and I tried my best to make it look >as good as possible! Hope you all like it - Feel free to use it and edit it; just keep the credits link! :)
+>
+>If you run into any issues, please let me know!" -IAreKyleW00t
 
 
 #Features
