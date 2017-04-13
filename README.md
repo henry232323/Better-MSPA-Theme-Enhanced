@@ -6,7 +6,7 @@ A modification of IAREKYLEW00T's *"Better" MSPA Theme* MSPaint Adventures styled
 >
 >If you run into any issues, please let me know!" -IAreKyleW00t
 >
->#Features
+>#### Features
 >- MSPA Themed (Obviously)
 >- Should work in ALL browsers (Including IE)
 >- “Become An Excellent Host” mode
